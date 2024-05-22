@@ -15,6 +15,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation 'org.hibernate:hibernate-core:5.5.7.Final'
     implementation 'com.h2database:h2:1.4.200'
+    implementation 'javax.validation:validation-api:2.0.1.Final'
     implementation 'org.flywaydb:flyway-core:8.0.0'
 }
 
